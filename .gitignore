@@ -3,6 +3,9 @@ __pycache__/
 .venv-mlx/
 .venv/
 adapters/
+adapters-lora/
+adapters-qlora/
+models/
 data/
 *.gguf
 .DS_Store
