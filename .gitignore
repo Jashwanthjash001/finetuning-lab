@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv-mlx/
+.venv/
+adapters/
+data/
+*.gguf
+.DS_Store
+.ipynb_checkpoints/
